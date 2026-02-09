@@ -1,0 +1,10 @@
+
+casadi==3.7.2
+ipykernel==7.2.0
+ipython==8.38.0
+matplotlib==3.10.8
+matplotlib-inline==0.2.1
+message-filters==4.3.11
+numpy==2.2.6
+scipy==1.15.3
+sensor-msgs==4.9.0
